@@ -1,0 +1,17 @@
+{
+  "name": "css-avatars",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "cmz": "^3.7.0",
+    "electron-start": "^1.0.0"
+  },
+  "scripts": {
+    "start": "electron-start src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "joshwnj",
+  "license": "MIT"
+}
